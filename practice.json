@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Abby",
+        "age": 10,
+        "type": "cat",
+        "gender": "female",
+        "favFoods": [
+            "chips",
+            "treats",
+            "tuna"
+        ]
+    },
+    {
+        "name": "Marley",
+        "age": 6,
+        "type": "dog",
+        "gender": "male",
+        "favFoods": [
+            "ham",
+            "treats",
+            "cat poop"
+        ]
+    }
+]
